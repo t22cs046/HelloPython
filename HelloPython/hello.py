@@ -176,4 +176,3 @@ if __name__ == "__main__":
     play_janken(num_players=4)  # 4人でじゃんけん
     
 #11/15 GitHub接続確認
-#sssssssssss
